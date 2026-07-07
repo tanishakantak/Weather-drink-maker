@@ -1,0 +1,6 @@
+{
+  "name": "Weather Drink Maker",
+  "description": "A cozy, immersive mini-game where you craft custom weather-inspired drinks based on a dynamic weather spinner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
